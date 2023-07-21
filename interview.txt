@@ -1,0 +1,7 @@
+let i = 10;
+
+if (i < 10) {
+	console.log("Nilai Anda Dibawah 10");
+}else{
+	console.log("Nilai Anda DiAtas 10");
+}
